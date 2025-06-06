@@ -1,0 +1,16 @@
+IA utilizada: cursor
+
+usos:
+
+correcion de errores y consultas de base de datos los cuales fueron:
+-nombre de db incorrecto
+-usuario no añadido a db
+-si era posible categorizar los proyectos en la pagina o habia que modificar la db para esto
+
+css:
+-creacion del css
+-adaptacion de botstrap de carrusel a la pagina 
+
+medidas tomadas despues de la intervencion de la ia:
+-modificacion de la db agregando fila categoria para organizar los proyectos en la pagina en secciones segun si son: evaluaciones, talleres o tareas autonomas 
+-creacion de usuario admin con contraseña 123456
